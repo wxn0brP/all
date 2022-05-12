@@ -1,2 +1,2 @@
 # all
-ogolny
+taki ogóly dla plików
